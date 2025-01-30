@@ -79,7 +79,7 @@ body {
     gap: 32px;
 }
 
-.apresentacao__links__link{
+.apresentacao__links__navegacao{
     /* background-color: #22D4FD; */
     display: flex;
     justify-content: center;
